@@ -35,8 +35,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Zhou Yang**, Weisheng Dong*, Xin Li, Mengluan Huang, Yulin Sun and Guangming Shi
 
-
 [**Project**](https://see.xidian.edu.cn/faculty/wsdong/Projects/VQSA.htm) <strong><span class='show_paper_citations' data='kN8pdxcAAAAJ:d1gkVwhDpl0C'></span></strong>
+
 **Abstract:** Inspired by sparse representation in image restoration, we opt to address the degraded image recognition problem by learning image-quality-independent feature representation in a simple plug-and-play manner, that is, to introduce discrete vector quantization (VQ) to remove redundancy in recognition models.
 </div>
 </div>
@@ -48,14 +48,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Zhou Yang**, Weisheng Dong*, Xin Li, Jinjian Wu, Leida Li and Guangming Shi 
 
-[**Download PDF**](https://link.springer.com/content/pdf/10.1007/978-3-031-20053-3_32.pdf?pdf=inline%20link)
-
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=kN8pdxcAAAAJ&citation_for_view=kN8pdxcAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='kN8pdxcAAAAJ:u-x6o8ySG0sC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+In standard feature distillation, Mean Squared Error, MSE treats each pixel in the feature equally and may result in relatively poor reconstruction
+performance in some difficult regions. To address this issue, we propose a novel self-feature distillation method with uncertainty modeling for better producing HQ-like features from low-quality observations in this paper.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
