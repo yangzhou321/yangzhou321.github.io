@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Yang Zhou"
-description              : "Computer science and technology Ph.D Student Low-quality image recognition and neural network robustness"
+description              : "Computer science and technology" <br> "Ph.D Student Low-quality image recognition and neural network robustness"
 repository               : "yangzhou321/yangzhou321.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
