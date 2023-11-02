@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yang Zhou"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D Student in XiDian University, Computer Science and technology. Majored in low-quality image recognition and neural network robustness."
 repository               : "yangzhou321/yangzhou321.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "yangzhou321"
   google_plus      :
   keybase          :
   instagram        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCjguFMuFJtzamLIYz5R2umg"
   wikipedia        :
 
 
