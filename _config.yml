@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yang Zhou"
-description              : "Ph.D Student \n Computer science and technology \n Majored in low-quality image recognition and neural network robustness."
+description              : "Ph.D Student" \n "Computer science and technology" \n "Majored in low-quality image recognition and neural network robustness"
 repository               : "yangzhou321/yangzhou321.github.io"
 google_scholar_stats_use_cdn : true
 
