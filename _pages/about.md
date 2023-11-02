@@ -36,12 +36,10 @@ My research interest includes neural machine translation and computer vision. I 
 **Zhou Yang**, Weisheng Dong*, Xin Li, Mengluan Huang, Yulin Sun and Guangming Shi
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='kN8pdxcAAAAJ:d1gkVwhDpl0C'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://see.xidian.edu.cn/faculty/wsdong/Projects/VQSA.htm) <strong><span class='show_paper_citations' data='kN8pdxcAAAAJ:d1gkVwhDpl0C'></span></strong>
+**Abstract:** Inspired by sparse representation in image restoration, we opt to address the degraded image recognition problem by learning image-quality-independent feature representation in a simple plug-and-play manner, that is, to introduce discrete vector quantization (VQ) to remove redundancy in recognition models.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/UEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
