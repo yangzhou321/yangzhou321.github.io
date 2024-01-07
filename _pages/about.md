@@ -57,6 +57,38 @@ My research interest includes neural network robustness and computer vision. I h
 
 # 📽 Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BrickPal</div><img src='images/BrickPal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+BrickPal: Assembly as Language, Immersive and Gamification, In-situ Creation
+
+
+Xiaofeng Zhang, **Zhou Yang**, Xiao Tang, Yao Shi, Hongni Ye, Yi Wu and Ran Zhang
+
+[**Video**](https://www.youtube.com/watch?v=-BBnm8yBUSg&t=1s)
+
+**Project Introduction:** We have developed an application using AR glasses for assisting assembly on the Unity Vuforia platform. This program also utilizes NLP technology to predict the next assembly step and supports user-defined assembly requirements. My main contribution is the assembly guidance using AR technology.
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Kinect</div><img src='images/Kinect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Gesture-based Human-Computer Interaction Shooting Game
+
+**Zhou Yang**
+
+[**Video**](https://www.youtube.com/watch?v=VxkAW67TZR8)
+
+**Introduction:** Through combining a depth camera Kinect with object detection and gesture recognition algorithms, we can control the movement and shooting of a game characters based on the position and gestures of the hands in 3D space. Completed independently.
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2024.01* . Gold medal and ranked 6th / 1326 on Kaggle competition: [UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)](https://www.kaggle.com/xdu4yangzhou). The main purpose is to help enhance the applicability and accessibility of accurate ovarian cancer diagnoses.
