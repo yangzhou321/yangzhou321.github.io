@@ -67,7 +67,7 @@ Xiaofeng Zhang, **Zhou Yang**, Xiao Tang, Yao Shi, Hongni Ye, Yi Wu and Ran Zhan
 
 [**Video**](https://www.youtube.com/watch?v=-BBnm8yBUSg&t=1s)
 
-**Project Introduction:** We have developed an application using AR glasses for assisting assembly on the Unity Vuforia platform. This program also utilizes NLP technology to predict the next assembly step and supports user-defined assembly requirements. My main contribution is the assembly guidance using AR technology.
+**Introduction:** We have developed an application using AR glasses for assisting assembly on the Unity Vuforia platform. This program also utilizes NLP technology to predict the next assembly step and supports user-defined assembly requirements. My main contribution is the assembly guidance using AR technology.
 
 </div>
 </div>
