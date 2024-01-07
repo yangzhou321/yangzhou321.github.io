@@ -68,8 +68,11 @@ My research interest includes neural network robustness and computer vision. I h
 - *2019.09 - now*, PhD student at the School of Artificial and Intelligence, Xidian University, Xi'an, Shan Xi, China.
 - *2015.09 - 2019.06*, Undergraduate student at the Advance Material and Nano Technology, Xidian University, Xi'an, Shan Xi, China.
 
-// # 💬 Invited Talks
-// - *2021.06*, ---
 
-// # 💻 Internships
-// - *2019.05 - 2020.02*, ---
+<!--
+# 💬 Invited Talks
+- *2021.06*, ---
+
+# 💻 Internships
+- *2019.05 - 2020.02*, ---
+-->
