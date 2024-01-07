@@ -59,17 +59,17 @@ My research interest includes neural network robustness and computer vision. I h
 
 
 # 🎖 Honors and Awards
-- *2024.01* . Gold medal and ranked 6th / 1326 on Kaggle competition: [UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)](https://www.kaggle.com/xdu4yangzhou).The main purpose is to help enhance the applicability and accessibility of accurate ovarian cancer diagnoses.
+- *2024.01* . Gold medal and ranked 6th / 1326 on Kaggle competition: [UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)](https://www.kaggle.com/xdu4yangzhou). The main purpose is to help enhance the applicability and accessibility of accurate ovarian cancer diagnoses.
 - *2022.06* . Ranked 9th on CVPR2022 workshop: Robust Models Towards Open-world Classification. Completed independently.
 - *2021.08* . Ranked 3rd on DeeCamp 2023 (The competition is organized by Sinovation Ventures, and 01.AI is incubated by it.)
 
 
 # 📖 Educations
-- *2019.09 - 2023.11 (now)*, PhD student at the School of Artificial and Intelligence, Xidian University, Xi'an, Shan Xi, China.
+- *2019.09 - now*, PhD student at the School of Artificial and Intelligence, Xidian University, Xi'an, Shan Xi, China.
 - *2015.09 - 2019.06*, Undergraduate student at the Advance Material and Nano Technology, Xidian University, Xi'an, Shan Xi, China.
 
-# 💬 Invited Talks
-- *2021.06*, ---
+// # 💬 Invited Talks
+// - *2021.06*, ---
 
-# 💻 Internships
-- *2019.05 - 2020.02*, ---
+// # 💻 Internships
+// - *2019.05 - 2020.02*, ---
