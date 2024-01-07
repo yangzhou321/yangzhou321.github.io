@@ -74,7 +74,6 @@ Xiaofeng Zhang, **Zhou Yang**, Xiao Tang, Yao Shi, Hongni Ye, Yi Wu and Ran Zhan
 
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HCI Game</div><img src='images/Kinect.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
