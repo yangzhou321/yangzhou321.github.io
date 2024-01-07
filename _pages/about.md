@@ -21,7 +21,7 @@ My research interest includes neural network robustness and computer vision. I h
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 I got a gold medal in **Kaggle Competition** UBC-Ocean challenge !
+- *2024.01*: &nbsp;🎉🎉 I got a gold medal in **Kaggle Competition**: UBC-Ocean challenge ! [**Kaggle Profile**](https://www.kaggle.com/xdu4yangzhou)
 - *2024.01*: &nbsp;🎉🎉 Paper accepted by TIP2024 !
 - *2023.12*: &nbsp;🎉🎉 Paper accepted by AAAI2024 !
 - *2023.03*: &nbsp;🎉🎉 Paper accepted by CVPR2023 !
@@ -91,7 +91,7 @@ A Gesture-Based Human-Computer Interaction Shooting Game
 
 
 # 🎖 Honors and Awards
-- *2024.01* . Gold medal and ranked 6th / 1326 on Kaggle competition: [UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)](https://www.kaggle.com/xdu4yangzhou). The main purpose is to help enhance the applicability and accessibility of accurate ovarian cancer diagnoses.
+- *2024.01* . Gold medal and ranked 6th / 1326 on Kaggle competition: [UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)](https://www.kaggle.com/competitions/UBC-OCEAN/leaderboard). The main purpose is to help enhance the applicability and accessibility of accurate ovarian cancer diagnoses.
 - *2022.06* . Ranked 9th on CVPR2022 workshop: Robust Models Towards Open-world Classification. Completed independently.
 - *2021.08* . Ranked 3rd on DeeCamp 2023 (The competition is organized by Sinovation Ventures, and 01.AI is incubated by it.)
 
