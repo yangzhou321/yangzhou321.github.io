@@ -1,10 +1,10 @@
 /* 下拉选择框的样式 */
 .select-language{  
-  position: -webkit-sticky; /* 兼容 Safari */
-  position: sticky;
-  top: 0; /* 在顶部粘性定位 */
-  right: 0; /* 靠右对齐 */
-  z-index: 25; /* 确保它在页面上其他元素之上 */
+  position: absolute; /* 下拉选择框使用绝对定位 */
+  top: 0; /* 顶部对齐外层 div 的顶部 */
+  right: 0; /* 右侧对齐外层 div 的右侧 */
+  padding: 5px; /* 内边距 */
+  z-index: 10; /* 确保它在页面上其他元素之上 */
 }
 
 .sticky-dropdown {
