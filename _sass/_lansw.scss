@@ -1,21 +1,21 @@
-.language-switcher {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  display: flex;
-  flex-direction: column;
-  background-color: #f8f9fa;
-  padding: 10px;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+/* 下拉选择框的样式 */
+#language-select {
+  font-family: Arial, sans-serif; /* 设置字体 */
+  font-size: 16px; /* 设置字体大小 */
+  color: black; /* 设置字体颜色为黑色 */
+  padding: 8px; /* 设置内边距 */
+  margin: 5px 0; /* 设置外边距 */
+  border: 1px solid #ccc; /* 设置边框 */
+  border-radius: 4px; /* 设置边框圆角 */
+  background-color: white; /* 设置背景颜色 */
+}
 
-  a {
-    text-decoration: none;
-    color: #007bff;
-    margin: 5px 0;
+/* 改善兼容性和增加样式的小技巧：在某些浏览器中，可以使用伪元素来进一步定制外观 */
+#language-select::-ms-expand {
+  display: none; /* 隐藏 IE 和 Edge 的默认下拉箭头 */
+}
 
-    &:hover {
-      color: #0056b3;
-    }
-  }
+#language-select:focus {
+  border-color: #007bff; /* 聚焦时边框颜色改变 */
+  outline: none; /* 移除聚焦时的默认轮廓 */
 }
