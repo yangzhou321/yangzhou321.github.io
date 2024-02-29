@@ -1,8 +1,8 @@
 /* 下拉选择框的样式 */
 .select-language{
-  position: absolute; /* 使用 fixed 定位，使 div 始终显示在视窗的同一位置 */
-  top: 1px; /* 距离页面顶部 50px */
-  right: 1px; /* 距离页面右侧 20px */
+  position: sticky; /* 使用 fixed 定位，使 div 始终显示在视窗的同一位置 */
+  top: 0px; /* 距离页面顶部 50px */
+  right: 0px; /* 距离页面右侧 20px */
   padding: 5px;
 }
 #language-select {
