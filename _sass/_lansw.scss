@@ -1,12 +1,9 @@
 /* 下拉选择框的样式 */
 .select-language{
-  position: relative; /* 使用 fixed 定位，使 div 始终显示在视窗的同一位置 */
+  position: absolute; /* 使用 fixed 定位，使 div 始终显示在视窗的同一位置 */
   top: 20px; /* 距离页面顶部 50px */
   right: 20px; /* 距离页面右侧 20px */
-   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
+  padding: 5px;
 }
 #language-select {
 
