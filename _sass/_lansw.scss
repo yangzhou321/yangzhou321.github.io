@@ -10,6 +10,7 @@
 .sticky-dropdown {
   padding: 5px 10px; /* 稍微增加内边距，使得选择框更易于点击 */
   margin: 2; /* 去除外边距，或根据需要调整 */
+  font-family: $sans-serif-narrow;
   border: 1px solid #ccc;
   background-color: white;
 }
