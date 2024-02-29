@@ -1,8 +1,11 @@
 /* 下拉选择框的样式 */
-#language-select {
+.select-language{
   position: fixed; /* 使用 fixed 定位，使 div 始终显示在视窗的同一位置 */
   top: 20px; /* 距离页面顶部 50px */
   right: 20px; /* 距离页面右侧 20px */
+}
+#language-select {
+
   font-family: Arial, sans-serif; /* 设置字体 */
   font-size: 16px; /* 设置字体大小 */
   color: black; /* 设置字体颜色为黑色 */
