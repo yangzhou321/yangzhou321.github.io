@@ -10,7 +10,7 @@
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
-        <select class="sticky-dropdown" >
+        <select class="sticky-dropdown" onchange="changeLanguage">
           <option value="en">English</option>
           <option value="zh">简体中文</option>
           
@@ -23,9 +23,10 @@
 
 <!--
     id="languageSelect" onchange="changeLanguage()"
-    <option value="zh">简体中文</option>
-    <script>
+    <option value="zh">简体中文</option>-->
+    <script> 
 function changeLanguage() {
+  debugger
   var language = document.getElementById("languageSelect").value;
   if (language == "en") {
     document.getElementById("englishContent").style.display = "block";
@@ -35,4 +36,4 @@ function changeLanguage() {
     document.getElementById("chineseContent").style.display = "block";
   }
 }
-</script> -->
+</script>
