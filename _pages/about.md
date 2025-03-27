@@ -32,7 +32,7 @@ My research interest includes neural network robustness and computer vision. I h
 
 [Gain from Neighbors: Boosting Model Robustness in the Wild via Adversarial Perturbations Toward Neighboring Classes](https://github.com/yangzhou321/Gain_from_Neighbors/blob/main/Files/camera_ready.pdf)
 
-**Zhou Yang**, Mingtao Feng, Tao Huang, Fangfang Wu, Weisheng Dong, Xin Li, Guangming Shi
+**Zhou Yang**, Mingtao Feng, Tao Huang, Fangfang Wu, Weisheng Dong*, Xin Li, Guangming Shi
 
 <strong><span class='show_paper_citations' data='kN8pdxcAAAAJ:d1gkVwhDpl0C'></span></strong> [**Project**](https://github.com/yangzhou321/Gain_from_Neighbors)
 
