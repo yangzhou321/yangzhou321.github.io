@@ -27,6 +27,20 @@ My research interest includes neural network robustness and computer vision. I h
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/AT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gain from Neighbors: Boosting Model Robustness in the Wild via Adversarial Perturbations Toward Neighboring Classes](https://github.com/yangzhou321/Gain_from_Neighbors/blob/main/Files/camera_ready.pdf)
+
+**Zhou Yang**, Mingtao Feng, Tao Huang, Fangfang Wu, Weisheng Dong, Xin Li, Guangming Shi
+
+<strong><span class='show_paper_citations' data='kN8pdxcAAAAJ:d1gkVwhDpl0C'></span></strong> [**Project**](https://github.com/yangzhou321/Gain_from_Neighbors)
+
+**Abstract:** In this paper, we observe that classification errors arising from distribution shifts tend to cluster near the true values, suggesting that misclassifications commonly occur in semantically similar, neighboring categories. Furthermore, robust advanced vision foundation models maintain larger inter-class distances while preserving semantic consistency, making them less vulnerable to such shifts. Building on these findings, we propose a new method called GFN (Gain From Neighbors), which uses gradient priors from neighboring classes to perturb input images and incorporates an inter-class distance-weighted loss to improve class separation.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/VQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
