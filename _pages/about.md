@@ -68,6 +68,20 @@ My research interest includes neural network robustness and computer vision. I h
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/LT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Inverse weight-balancing for deep long-tailed learning](https://ojs.aaai.org/index.php/AAAI/article/view/29055)
+
+Wenqi Dang, **Zhou Yang**, Weisheng Dong, Xin Li, Guangming Shi
+
+<strong><span class='show_paper_citations' data='kN8pdxcAAAAJ:9yKSN-GCB0IC'></span></strong> [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=kN8pdxcAAAAJ&citation_for_view=kN8pdxcAAAAJ:9yKSN-GCB0IC)
+
+**Abstract:** The performance of deep learning models often degrades rapidly when faced with imbalanced data characterized by a long-tailed distribution. Researchers have found that the fully connected layer trained by cross-entropy loss has large weight-norms for classes with many samples, but not for classes with few samples. How to address the data imbalance problem with both the encoder and the classifier seems an under-researched problem. In this paper, we propose an inverse weight-balancing (IWB) approach to guide model training and alleviate the data imbalance problem in two stages. In the first stage, an encoder and classifier (the fully connected layer) are trained using conventional cross-entropy loss. In the second stage, with a fixed encoder, the classifier is finetuned through an adaptive distribution for IWB in the decision space. Unlike existing inverse image frequency that implements a multiplicative margin adjustment transformation in the classification layer, our approach can be interpreted as an adaptive distribution alignment strategy using not only the class-wise number distribution but also the sample-wise difficulty distribution in both encoder and classifier. Experiments show that our method can greatly improve performance on imbalanced datasets such as CIFAR100-LT with different imbalance factors, ImageNet-LT, and iNaturelists2018.
+
+</div>
+</div>
+
 # 📽 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BrickPal</div><img src='images/BrickPal.png' alt="sym" width="100%"></div></div>
