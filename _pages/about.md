@@ -108,12 +108,25 @@ A Gesture-Based Human-Computer Interaction Shooting Game
 
 **Zhou Yang**
 
-[**Video**](https://www.youtube.com/watch?v=VxkAW67TZR8)
+[**Video**](https://www.bilibili.com/video/BV1vz4y1Q7cu/?share_source=copy_web&vd_source=120efde9ff130315dccc5a4fe5799224)
 
 **Introduction:** Through combining a depth camera Kinect with object detection and gesture recognition algorithms, we can control the movement and shooting of a game characters based on the position and gestures of the hands in 3D space. Completed independently.
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robot Arm</div><img src='images/arm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A 6-DoF Robotic Arm for Exploring Inverse Kinematics Solutions and Vision-Based Grasping.
+
+**Zhou Yang**
+
+[**Video**](https://www.bilibili.com/video/BV1HLoRY6EXg/?share_source=copy_web&vd_source=120efde9ff130315dccc5a4fe5799224)
+
+**Introduction:** A hardware platform for initial attempts at inverse kinematics solutions was built using six PWM servos and a 16-channel serial bus control board.
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
