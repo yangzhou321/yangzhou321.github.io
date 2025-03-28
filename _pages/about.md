@@ -22,7 +22,7 @@ My research interest includes neural network robustness and computer vision. I h
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉🎉 Paper accepted by CVPR2025 !
-- *2024.01*: &nbsp;🎉🎉🎉 I got a gold medal in **Kaggle Competition**: UBC-Ocean challenge ! [**Kaggle Profile**](https://www.kaggle.com/xdu4yangzhou)
+- *2024.01*: &nbsp;🎉🎉🎉 I got a gold medal in **Kaggle Competition**: UBC-Ocean challenge ! [**Kaggle Profile**](https://www.kaggle.com/xdu4yangzhou/competitions)
 - *2023.12*: &nbsp;🎉🎉🎉 Paper accepted by AAAI2024 !
 
 # 📝 Publications 
