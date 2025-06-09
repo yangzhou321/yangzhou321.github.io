@@ -34,7 +34,7 @@ My research interest includes neural network robustness and computer vision. I h
 
 **Zhou Yang**, Mingtao Feng, Tao Huang, Fangfang Wu, Weisheng Dong*, Xin Li, Guangming Shi
 
-<strong><span class='show_paper_citations' data='kN8pdxcAAAAJ:d1gkVwhDpl0C'></span></strong> [**Project**](https://github.com/yangzhou321/Gain_from_Neighbors)
+<strong><span class='show_paper_citations' data='kN8pdxcAAAAJ:qjMakFHDy7sC'></span></strong> [**Project**](https://github.com/yangzhou321/Gain_from_Neighbors)
 
 **Abstract:** In this paper, we observe that classification errors arising from distribution shifts tend to cluster near the true values, suggesting that misclassifications commonly occur in semantically similar, neighboring categories. Furthermore, robust advanced vision foundation models maintain larger inter-class distances while preserving semantic consistency, making them less vulnerable to such shifts. Building on these findings, we propose a new method called GFN (Gain From Neighbors), which uses gradient priors from neighboring classes to perturb input images and incorporates an inter-class distance-weighted loss to improve class separation.
 </div>
